@@ -3,10 +3,10 @@
 #  http://philippinecybersecurity.ml  #
 #######################
 mess = """############################################
-          #      [+]PHILIPPINE CYBER SECURITY [+]    #
-          #       (DEFACE-PAGE GENERATOR)            #
-          #                ./by S4nji                #
-          ############################################ """
+#      [+]PHILIPPINE CYBER SECURITY [+]    #
+#       (DEFACE-PAGE GENERATOR)            #
+#                ./by S4nji                #
+############################################ """
 print mess
 title = raw_input("Enter the title: ")
 heading = raw_input("Enter the heading text: ")
